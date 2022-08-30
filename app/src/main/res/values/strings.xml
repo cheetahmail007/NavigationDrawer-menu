@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="profile">Profile</string>
+    <string name="wallet">Wallet</string>
+    <string name="extra">Extra\'s</string>
+    <string name="offer">Offer</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+</resources>
